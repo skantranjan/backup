@@ -867,7 +867,7 @@ useEffect(() => {
         srm_email: new3PMData.srm_email,
         cm_code: new3PMData.cm_code,
         cm_description: new3PMData.cm_description,
-        region: new3PMData.region,
+        region_id: new3PMData.region,
         spokes: new3PMData.spokes
       });
 
@@ -877,7 +877,7 @@ useEffect(() => {
         srm_email: new3PMData.srm_email,
         cm_code: new3PMData.cm_code,
         cm_description: new3PMData.cm_description,
-        region: new3PMData.region,
+        region_id: new3PMData.region,
         spokes: new3PMData.spokes
       });
 
